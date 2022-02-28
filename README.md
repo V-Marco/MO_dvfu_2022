@@ -5,6 +5,7 @@
 - Полезные ссылки
   - [Anaconda](https://www.anaconda.com/products/individual)
   - [Stackoverflow](https://stackoverflow.com)
+  - [Google Colab](https://colab.research.google.com/)
   - Таблица с оценками
 
 - Консультации
