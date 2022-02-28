@@ -6,7 +6,6 @@
   - [Anaconda](https://www.anaconda.com/products/individual)
   - [Stackoverflow](https://stackoverflow.com)
   - [Google Colab](https://colab.research.google.com/)
-  - Таблица с оценками
 
 - Консультации
   - По Git и GitHub: [задание](https://github.com/V-Marco/hse_iad4_2022/blob/main/misc/git_cons.pdf), [видео](https://youtu.be/Cvd8tdK8CVo)
