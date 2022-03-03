@@ -17,3 +17,10 @@
   - [Классный текст про генераторы случайных чисел](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9783527683147.app1)
   - [Markdown Cheatsheet](https://www.markdownguide.org/basic-syntax#overview)
   - [Про LaTex из Википедии](https://en.wikipedia.org/wiki/LaTeX), есть хорошие курсы на Курсере
+
+- Семинар 2: Pandas & Matplotlib
+  - [Кодспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_2/solved_sem01_pandas.ipynb)
+  - [Видео](https://youtu.be/kLRmQjrzd7A)
+  - [Разница между функциями `map`, `apply`, `applymap`](https://stackoverflow.com/questions/19798153/difference-between-map-applymap-and-apply-methods-in-pandas)
+  - [Примеры индексации в Pandas](https://github.com/V-Marco/hse_iad5_2021/blob/main/misc/pandas_indexing_examples.ipynb)
+  - [Здоровское пояснение про bitwise operators в Pandas](https://towardsdatascience.com/bitwise-operators-and-chaining-comparisons-in-pandas-d3a559487525)
