@@ -27,7 +27,7 @@
 
 - Семинар 3: EDA & sklearn
   - [Кодспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_3/solved_sem03_eda_sklearn.ipynb)
-  - [Видео]
+  - [Видео](https://youtu.be/8A3MeZzkBmE)
   - [Классная статья по разным видам корреляций](https://medium.com/@outside2SDs/an-overview-of-correlation-measures-between-categorical-and-continuous-variables-4c7f85610365)
   - Некоторые коэффициенты, отражающие ассоциацию между категориальными переменными:
     - Две категориальные ранговые переменные: [корреляция Спирмена (можно использовать и для непрерывных переменных)](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient), [тау Кендалла](https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient)
