@@ -11,7 +11,7 @@
   - По Git и GitHub: [задание](https://github.com/V-Marco/hse_iad4_2022/blob/main/misc/git_cons.pdf), [видео](https://youtu.be/Cvd8tdK8CVo)
 
 - Семинар 1: Немного про Jupyter notebook и numpy
-  - [Кодспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_1/solved_sem01_numpy.ipynb)
+  - [Кодспект **(UPD: решения)**](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_1/solved_sem01_numpy.ipynb)
   - [Видео](https://youtu.be/DHYaR0OXLzk)
   - [Хороший пост про np.random.seed()](https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do)
   - [Классный текст про генераторы случайных чисел](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9783527683147.app1)
@@ -37,5 +37,5 @@
 - Семинар 4: Градиентный спуск
   - [Конспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_4/sem04_grad.pdf)
   - [Кодспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_4/solved_sem04_grad.ipynb)
-  - [Видео]
+  - [Видео](https://youtu.be/gy1LE8n6m_c)
   - [О сходимости градиентного спуска на практике](https://datascience.stackexchange.com/questions/24534/does-gradient-descent-always-converge-to-an-optimum)
