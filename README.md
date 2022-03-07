@@ -35,7 +35,7 @@
     - Категориальная и непрерывная: [p-value в F-тесте на сравнение средних](http://mlwiki.org/index.php/One-Way_ANOVA_F-Test)
 
 - Семинар 4: Градиентный спуск
-  - [Конспект]
+  - [Конспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_4/sem04_grad.pdf)
   - [Кодспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_4/solved_sem04_grad.ipynb)
   - [Видео]
   - [О сходимости градиентного спуска на практике](https://datascience.stackexchange.com/questions/24534/does-gradient-descent-always-converge-to-an-optimum)
