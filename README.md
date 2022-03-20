@@ -39,3 +39,12 @@
   - [Кодспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_4/solved_sem04_grad.ipynb)
   - [Видео](https://youtu.be/gy1LE8n6m_c)
   - [О сходимости градиентного спуска на практике](https://datascience.stackexchange.com/questions/24534/does-gradient-descent-always-converge-to-an-optimum)
+
+- Семинар 5: Логистическая регрессия и SVM
+  - [Кодспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_5/solved_sem05_logit_svm.ipynb)
+  - [Видео]
+  - [Про AUC ROC](https://dyakonov.org/2017/07/28/auc-roc-площадь-под-кривой-ошибок/)
+
+- Семинар 6: Обработка текстов
+  - [Кодспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_6/solved_sem06_texts.ipynb)
+  - [Видео]
