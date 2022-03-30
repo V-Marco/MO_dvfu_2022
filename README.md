@@ -48,3 +48,14 @@
 - Семинар 6: Обработка текстов
   - [Кодспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_6/solved_sem06_texts.ipynb)
   - [Видео](https://youtu.be/Df-maYyFe9A)
+
+- Семинар 7: Решающие деревья
+  - [Кодспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_7/solved_sem07_trees.ipynb)
+  - [Конспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_7/sem07_notes.pdf)
+  - [Решение бонуса](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_7/bonus_sem07_trees.ipynb)
+  - [Видео](https://youtu.be/gBFXVjp1u54)
+
+- Семинар 8: Случайный лес
+  - [Кодспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_8/solved_sem08_rf.ipynb)
+  - [Конспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_7/sem07_notes.pdf)
+  - [Видео](https://youtu.be/gBFXVjp1u54)
