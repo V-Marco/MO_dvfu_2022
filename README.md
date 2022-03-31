@@ -63,8 +63,8 @@
 - Семинар 9: Градиентный бустинг
   - [Кодспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_9/solved_sem09_boostings_part1.ipynb)
   - [Имплементации бустинга](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_9/sem09_boostings_part2.ipynb)
-  - [Видео]
+  - [Видео](https://youtu.be/e41RW-FXITc)
 
 - Семинар 10: Кластеризация
   - [Кодспект](https://github.com/V-Marco/MO_dvfu_2022/blob/main/seminar_10/solved_sem10_clustering.ipynb)
-  - [Видео]
+  - [Видео](https://youtu.be/e41RW-FXITc)
